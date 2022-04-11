@@ -1,0 +1,18 @@
+body {
+    background: #FFF;
+}
+
+.img_eu {
+    max-width: 200px;
+    width: 200px;
+    float: left;
+    border-radius: 50%;
+}
+
+#inf {
+    text-align: center;
+}
+
+.linha {
+    width: 100%;
+}
